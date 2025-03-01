@@ -43,8 +43,12 @@
 
 ## ✅ My Personal Notes (optional for you to fill)
 
-- I found the biggest difference to be _______________________
-- One example of DevSecOps in real life is ___________________
-- One question I still have is _____________________________
+- I found the biggest difference to be:
+DevOps focuses mainly on speed, automation, and delivery, while DevSecOps ensures security is built-in from the very beginning instead of being added later. It's a mindset shift where everyone (developeres, operations, and security teams) shares responsibility for security. 
+- One example of DevSecOps in real life is:
+A CI/CD pipeline that automatically scans every new commit for vulnerabilities using tools like Snyk, and if a high-severity vulnerability is detected, the pipeline fails the build immediately. 
+This ensures insecure code never even reaches production. 
+- One question I still have is:
+How do large companies (like Netflix, Google, or Amazon) manage to scale DevSecOps across hundreds of teams and thousands of microservices? What tools and best practices make that possible at such a scale?
 
 ---
