@@ -41,7 +41,7 @@
 
 ---
 
-## ✅ My Personal Notes (optional for you to fill)
+## ✅ My Personal Notes
 
 - I found the biggest difference to be:
 DevOps focuses mainly on speed, automation, and delivery, while DevSecOps ensures security is built-in from the very beginning instead of being added later. It's a mindset shift where everyone (developeres, operations, and security teams) shares responsibility for security. 
